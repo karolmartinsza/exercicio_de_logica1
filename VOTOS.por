@@ -7,7 +7,7 @@ programa {
 
     para (inteiro i = 0; i < 3; i++){
       para (inteiro j = 0; j < 2; j++){
-        escreva("Votos no ", i+1, "บ candidato no ", j+1, "บ turno: ")
+        escreva("Votos no ", i+1, "ยบ candidato no ", j+1, "ยบ turno: ")
         leia(votos[i][j])
       } 
 
